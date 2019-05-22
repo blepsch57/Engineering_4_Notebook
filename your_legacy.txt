@@ -1,0 +1,9 @@
+1. The IP address of a pi changes on startup and sometimes randomly while using it, if your flask website stops working or you can't ssh check your IP again
+
+2. Learn how to use ternary operators because they look really cool and you save space in your code
+
+3. Some python commands only work when the program is run in terminal and don't work when you run it in the default python shell
+
+4. When running a program in terminal, remember to use python3 if your program is coded in python 3. 'python' runs it in python 2.7 or something
+
+5. Learn to use a text editor other than nano (I recommend vim)
